@@ -1,0 +1,14 @@
+<view class="page-wrapper ">
+  <form bindsubmit="addBlog">
+    <view class="blog-title">
+      <input name="title" placeholder="请输入标题" value="{{blogTitle}}"></input>
+    </view>
+    <view class="split"></view>
+    <scroll-view scroll-y="true" class="blog-content">
+      <textarea name="content" placeholder="请输入正文"  value="{{blogContent}}"></textarea>
+    </scroll-view>
+    <view class="blog-bottom-wrapper">
+      <button class="blog-bottom" form-type="submit">保存</button>
+    </view>
+  </form>
+</view>

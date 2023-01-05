@@ -1,0 +1,10 @@
+<view class="page-wrapper ">
+  <block wx:for="{{dataList}}" wx:key="k" wx:for-index="bindex">
+    <view class="blog-row" bindtap="viewBlog" bindlongpress="longPressed" data-blogid="{{item.id}}">
+      <view class="blog-title">{{item.title}}</view>
+    </view>
+  </block>
+  <view bindtap="addBlog">
+    <image class="float-img" src="/images/icon-add.png" ></image>
+  </view>
+</view>

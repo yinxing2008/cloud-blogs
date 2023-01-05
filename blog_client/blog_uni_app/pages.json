@@ -1,0 +1,35 @@
+{
+	"pages": [
+		{
+			"path": "pages/login",
+			"style": {
+				"navigationBarTitleText": "登录/注册"
+			}
+		},
+		{
+			"path": "pages/blog-list",
+			"style": {
+				"navigationBarTitleText": "蓝不蓝博客"
+			}
+		},
+		{
+			"path": "pages/blog-edit",
+			"style": {
+				"navigationBarTitleText": "编辑"
+			}
+		},
+		{
+			"path": "pages/blog-add",
+			"style": {
+				"navigationBarTitleText": "新建"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "蓝不蓝博客",
+		"navigationBarBackgroundColor": "#418DF9",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,31 @@
+
+.page-wrapper {
+    margin: 0;
+    font-size: 28rpx;
+    line-height: 1.5;
+    color: #333;
+    background-color: #efefef;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.blog-row{
+  display: flex;
+  height: 100rpx;
+  margin: 2rpx 0;
+  background-color: #fff;
+}
+.blog-title{
+  margin-left: 10rpx;
+  font-size: 30rpx;
+  line-height: 100rpx;
+  color: #333;
+}
+.float-img{
+  position: fixed;
+  bottom: 50rpx;
+  right: 50rpx;
+  height: 100rpx;
+  width: 100rpx;
+}

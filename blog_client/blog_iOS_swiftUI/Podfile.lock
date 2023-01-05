@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.5.0)
+  - AlertToast (1.3.7)
+  - HandyJSON (5.0.4-beta)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - SDWebImage (5.12.3):
+    - SDWebImage/Core (= 5.12.3)
+  - SDWebImage/Core (5.12.3)
+  - SDWebImageSwiftUI (2.0.2):
+    - SDWebImage (~> 5.10)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - AlertToast
+  - HandyJSON (~> 5.0.0-beta.1)
+  - Moya
+  - SDWebImageSwiftUI
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlertToast
+    - HandyJSON
+    - Moya
+    - SDWebImage
+    - SDWebImageSwiftUI
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  AlertToast: 8c9d5efb2df6ea728b32b62bce99d876ec3e5393
+  HandyJSON: a9c67202df97805a0ba4a00e30b50e9a30ac28f3
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  SDWebImage: 53179a2dba77246efa8a9b85f5c5b21f8f43e38f
+  SDWebImageSwiftUI: 8a3923c95108312b03a599ec1498754af55a6819
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 41054294c21fd9ea580f1b53ca1f07a37f633ed2
+
+COCOAPODS: 1.11.2
