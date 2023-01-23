@@ -1,7 +1,7 @@
 # Introduction
 Simple blog for programming starters.
 ![](https://img-blog.csdnimg.cn/faea1470ad3b4e8eba3b093d261d637d.png)
-Left：Android、iOS、Huawei HarmonyOS、Flutter、Vue、uni-app。
+Left：Android、iOS、Huawei HarmonyOS、Flutter、Vue、uni-app。  
 Right：Java、Python、Go、PHP、NodeJS
 
 
