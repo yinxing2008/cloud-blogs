@@ -1,25 +1,26 @@
-# 目标
-为编程初学者打造入门学习项目，使用各种主流编程语言来实现。让想学编程的，一个都不落下。
+# Introduction
+Simple blog for programming starters.
 ![](https://img-blog.csdnimg.cn/faea1470ad3b4e8eba3b093d261d637d.png)
-上述基本涵盖了当前编程开发所有主流语言（我这里说的主流，直白点讲就是互联网公司都在用的）。
+Left：Android、iOS、Huawei HarmonyOS、Flutter、Vue、uni-app。
+Right：Java、Python、Go、PHP、NodeJS
 
-左侧为前端版本：安卓、iOS、鸿蒙、Flutter、Vue、uni-app。
 
-右侧为服务器端版本：Java、Python、Go、Php、NodeJS
-
-# 前端效果图(以微信小程序为例)
+# Preview
 ![](https://img-blog.csdnimg.cn/7aa2d5becde24167b22714c9dfe62017.png)
-# 服务器端功能
- 1. 注册
- 2. 登录
- 3. 博客增删改查
+# Server Features
+ 1. Register
+ 2. Login
+ 3. Add\Delete\Modify\Query blog
 
-# 开源地址
+# Open Source
 [https://gitee.com/lblbc/cloud_blogs](https://gitee.com/lblbc/cloud_blogs)
 ![](https://img-blog.csdnimg.cn/2f0b2bfe7c724d32bb3b3c938791c143.png)
 
-# 关于
-厦门大学计算机专业|华为八年高级工程师     
-专注《零基础学编程系列》  http://lblbc.cn/blog  
-包含：Java | 安卓 | 前端 | Flutter | iOS | 小程序 | 鸿蒙  
-公众号：蓝不蓝编程  
+
+# About Me
+Graduated from China Xiamen University  
+Ever worked for Huawei as software developer  
+focus on programming learning. http://lblbc.cn/blog  
+Including：Android(Java、Kotlin)、iOS(SwiftUI)、Flutter(Dart)、Window Desktop(C#)、Front End(WeChat mini-program、uni-app、vue)、Back End（Java、Kotlin、NodeJS、Python、PHP、Go、C、C++）、HarmonyOS(Huawei)  
+Follow me on China wechat：蓝不蓝编程  
+![](https://img-blog.csdnimg.cn/4c62bfb4cca540b1a26825f2b1a8af7e.png)

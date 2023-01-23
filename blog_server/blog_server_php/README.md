@@ -19,7 +19,7 @@ Visual Studio Code
 # 开源地址
 [https://gitee.com/lblbc/cloud_blogs](https://gitee.com/lblbc/cloud_blogs/tree/master/blog_server/blog_server_php)
 ![](https://img-blog.csdnimg.cn/22b5ac80637d4778bb1e073284bcdd26.png)
-# 一分钟玩起来
+# 快速上手
 ## 1.更新依赖
 ```
 composer update

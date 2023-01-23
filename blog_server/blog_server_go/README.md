@@ -20,7 +20,7 @@ GoLand 或 Visual Studio Code
 [https://gitee.com/lblbc/cloud_blogs](https://gitee.com/lblbc/cloud_blogs/tree/master/blog_server/blog_server_go)
 ![](https://img-blog.csdnimg.cn/662e4f68d7e2414b9548e8ab62ac98e5.png)
 
-# 一分钟玩起来
+# 快速上手
 ## 1.下载依赖
 ```
 go mod tidy
