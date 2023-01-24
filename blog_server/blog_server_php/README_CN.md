@@ -25,3 +25,17 @@
 专注《零基础学编程系列》  http://lblbc.cn/blog  
 包含：Java | 安卓 | 前端 | Flutter | iOS | 小程序 | 鸿蒙  
 公众号：蓝不蓝编程
+
+# 快速上手
+## 1.更新依赖
+```
+composer update
+```
+
+## 2.运行
+```
+php think run -p 8080
+```
+## 3.浏览器访问
+登录：
+http://localhost:8080/user/login
