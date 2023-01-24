@@ -17,6 +17,12 @@ Vue3 + Vite + Vant + Axios
 [https://gitee.com/lblbc/cloud_blogs](https://gitee.com/lblbc/cloud_blogs/tree/master/blog_client/blog_vue/blog_vue_vant)
 ![](https://img-blog.csdnimg.cn/fa971decd0824e9ebbe3e380ba1f8c10.png)
 
+# 关于
+厦门大学计算机专业|华为八年高级工程师   
+专注《零基础学编程系列》  http://lblbc.cn/blog  
+包含：Java | 安卓 | 前端 | Flutter | iOS | 小程序 | 鸿蒙  
+公众号：蓝不蓝编程
+
 # 快速上手
 ## 1. 编译
 `npm i`
@@ -27,9 +33,3 @@ Vue3 + Vite + Vant + Axios
 ## 4. 浏览
 http://localhost:3000/#/blog
 
-
-# 关于
-厦门大学计算机专业|华为八年高级工程师   
-专注《零基础学编程系列》  http://lblbc.cn/blog  
-包含：Java | 安卓 | 前端 | Flutter | iOS | 小程序 | 鸿蒙  
-公众号：蓝不蓝编程
