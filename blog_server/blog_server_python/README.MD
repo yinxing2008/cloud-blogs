@@ -19,38 +19,13 @@
 ![](https://img-blog.csdnimg.cn/d5d122919e1242bab080802b1817c88e.png)
 
 # 开发工具
-PyCharm
+开发工具：[下载PyCharm](https://cxyxy.blog.csdn.net/article/details/128722649)
 # 开源地址
-[https://gitee.com/lblbc/cloud_blogs](https://gitee.com/lblbc/cloud_blogs/tree/master/blog_server/blog_server_python)
-![](https://img-blog.csdnimg.cn/f94d417f7c144a0d8b88691e10e10ecb.png)
+[https://gitee.com/lblbc/cloud-blogs](https://gitee.com/lblbc/cloud-blogs/)
+![](https://img-blog.csdnimg.cn/58e7769427584fb58c93cef15fc50d08.png)
 
 # 关于
 厦门大学计算机专业|华为八年高级工程师   
 专注《零基础学编程系列》  http://lblbc.cn/blog  
 包含：Java | 安卓 | 前端 | Flutter | iOS | 小程序 | 鸿蒙  
 公众号：蓝不蓝编程
-
-# 安装依赖
-pip install python-jose
-pip install fastapi
-pip install python-multipart
-pip install sqlalchemy
-pip install uvicorn
-
-# 运行
-uvicorn main:app --reload --port 8080
-
-# FAQ
-如果遇到如下错误：
-ModuleNotFoundError: No module named 'pymysql'
-就卸载后重新安装pymysql。
-
-卸载：
-`pip uninstall pymysql`
-
-重新安装：
-`pip install pymysql`
-
-如果是IDE里（非命令行）报错，可以在代码里增加：
-``` import pymysql```
-然后按照代码提示import该依赖。

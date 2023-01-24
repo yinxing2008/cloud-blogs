@@ -15,23 +15,13 @@
 # Php工程截图
 ![](https://img-blog.csdnimg.cn/bec951f2df674ba28815ee3229c612bd.png)
 # 开发工具
-Visual Studio Code
+开发工具：[下载Visual Studio Code](https://cxyxy.blog.csdn.net/article/details/128722652)
 # 开源地址
-[https://gitee.com/lblbc/cloud_blogs](https://gitee.com/lblbc/cloud_blogs/tree/master/blog_server/blog_server_php)
-![](https://img-blog.csdnimg.cn/22b5ac80637d4778bb1e073284bcdd26.png)
-# 快速上手
-## 1.更新依赖
-```
-composer update
-```
+[https://gitee.com/lblbc/cloud-blogs](https://gitee.com/lblbc/cloud-blogs/)
+![](https://img-blog.csdnimg.cn/58e7769427584fb58c93cef15fc50d08.png)
 
-## 2.运行
-```
-php think run -p 8080
-```
 # 关于
 厦门大学计算机专业|华为八年高级工程师   
 专注《零基础学编程系列》  http://lblbc.cn/blog  
 包含：Java | 安卓 | 前端 | Flutter | iOS | 小程序 | 鸿蒙  
 公众号：蓝不蓝编程
-
