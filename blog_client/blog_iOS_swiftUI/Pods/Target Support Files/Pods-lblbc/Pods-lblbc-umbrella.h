@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_shopVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_shopVersionString[];
+FOUNDATION_EXPORT double Pods_lblbcVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_lblbcVersionString[];
 
