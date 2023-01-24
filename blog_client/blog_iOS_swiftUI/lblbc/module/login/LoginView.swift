@@ -6,8 +6,8 @@ import SwiftUI
 
 struct LoginView : View {
     var loginViewModel: LoginViewModel
-    @State var name: String = "lbl"
-    @State var password: String = "1"
+    @State var name: String = ""
+    @State var password: String = ""
     @State var error: String = ""
     @State var showPwd = false
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
