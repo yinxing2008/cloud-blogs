@@ -15,6 +15,7 @@ struct BlogListView: View {
     var body: some View {
         NavigationView{
             VStack{
+                Text("蓝不蓝博客")
                 List {
                     ForEach(blogViewModel.dataList.indices , id: \.self){ i in
                         BlogRowView(viewModel: blogViewModel,
