@@ -12,7 +12,7 @@ class HttpRequest {
     private readonly withCredentials: boolean;
     private readonly timeout: number;
     constructor() {
-        this.baseURL = 'http://lblbc.cn/';
+        this.baseURL = 'https://lblbc.cn/';
         this.withCredentials = true;
         this.timeout = 1000 * 60;
     }
